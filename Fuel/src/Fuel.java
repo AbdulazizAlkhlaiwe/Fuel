@@ -1,5 +1,3 @@
-// name : Abdulaziz alkhlaiwe
-// ID : 444101708
 
 
 import java.util.Scanner;
